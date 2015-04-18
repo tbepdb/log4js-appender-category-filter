@@ -1,0 +1,19 @@
+{
+  "name": "log4js-appender-category-filter",
+  "version": "1.0.0",
+  "description": "Appender for log4js. Filter logs by category.",
+  "main" : "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tbepdb/log4js-appender-category-filter.git"
+  },
+  "author": "tbepdb",
+  "keywords": [
+    "log4js",
+    "appender"
+  ],
+  "license": "GPLv3",
+  "dependencies": {
+    "log4js": "*"
+  }
+}
