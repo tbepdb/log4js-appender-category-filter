@@ -1,6 +1,9 @@
 # log4js-appender-category-filter
 Appender for log4js. Filter logs by category.
 
+### install 
+>npm install log4js-appender-category-filter --save 
+### using
 This appender will filter log by category. For example, if log4js was configured with the following json file:
 
     {
